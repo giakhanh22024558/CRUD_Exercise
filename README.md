@@ -1,5 +1,7 @@
 # Quản lý lớp học - Bài thực hành CRUD lớp 2425II_INT3236E_1  
 
+# Quản lý nhân viên - Bài thực hành JPA lớp 2425II_INT3236E_1: https://github.com/giakhanh22024558/JPA_Exercise
+
 **Sinh viên:** Lương Gia Khánh - 22024558  
 
 ### 1️⃣ Giao diện chính của hệ thống  
